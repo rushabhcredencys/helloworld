@@ -4,7 +4,7 @@ Generate random password of a given length
 ## Installation
 This project using composer.
 ```
-$ composer require rushabhcredencys/helloworld
+$ composer require credencys/helloworld
 ```
 
 ## Usage
